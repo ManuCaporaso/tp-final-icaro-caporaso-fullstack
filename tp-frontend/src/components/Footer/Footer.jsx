@@ -17,14 +17,14 @@ function Footer() {
         </a>
       </div>
       <div className="footer-nav">
-        <a href="#about">Sobre Nosotros</a>
+        <a href="#about">Acerca de</a>
         <a href="#contact">Contáctanos</a>
         <a href="#privacy">Política de Privacidad</a>
       </div>
       <p className="footer-disclaimer">
-        Lorem Ipsum Disclaimer: By accessing and using this website, you hereby acknowledge that all Lorem Ipsum content,
-        including but not limited to, dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-        incididunt ut labore et dolore magna aliqua.
+        <p>&copy; 2024 ITS. All rights reserved.</p>
+        <p>Created by Manuel Caporaso</p>
+        <p>DIPLOMATURA UNIVERSITARIA FULLSTACK ICARO</p>
       </p>
     </footer>
   );
